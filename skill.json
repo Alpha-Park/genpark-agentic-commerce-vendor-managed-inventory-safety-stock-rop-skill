@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-vendor-managed-inventory-safety-stock-rop-skill",
+  "version": "1.0.0",
+  "title": "VMI Continuous Review Safety Stock & Dynamic ROP Skill",
+  "category": "Agentic Commerce (Supply Chain & Inventory)",
+  "description": "Calculates dynamic Reorder Points (ROP) under stochastic demand and supplier lead-time variances, evaluating Z-score service levels (95%-99.5%) and preventing stockouts.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "calculate_vmi_dynamic_safety_stock_rop"
+  ],
+  "dependencies": []
+}
